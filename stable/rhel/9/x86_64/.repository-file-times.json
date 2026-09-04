@@ -1,0 +1,102 @@
+{
+  "clock": "unix-nanoseconds",
+  "files": {
+    "Packages/dunst-1.13.2-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788548603000000000,
+      "sha256": "53b19f12857706f0172f293167e606549968655e3c585fdb95893d44af88ddd7",
+      "size": 163358
+    },
+    "Packages/fvwm-2.7.0-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788307878000000000,
+      "sha256": "d60cb1eb866e708239cceb4b86303a38eb01548fb10cc89dba90d1ea1929e8dd",
+      "size": 1398866
+    },
+    "Packages/libxdo-3.20211022.1-10.el9.x86_64.rpm": {
+      "mtime_ns": 1788308264000000000,
+      "sha256": "06cb293e78500bd8352f29ae8e0a9819f5a36fa5cfd13348b3caef9f52cf3547",
+      "size": 42191
+    },
+    "Packages/libxdo-devel-3.20211022.1-10.el9.x86_64.rpm": {
+      "mtime_ns": 1788308264000000000,
+      "sha256": "d287a4b5ca25cc78e7763215859920c280a155fb0b4c3a5e0b3f9c2be5c0af37",
+      "size": 15108
+    },
+    "Packages/stalonetray-0.9.0-2.el9.x86_64.rpm": {
+      "mtime_ns": 1788554955000000000,
+      "sha256": "d6788121c46f7f165f1aad0aa737c0da226142af593d020c12df94849ae21688",
+      "size": 86759
+    },
+    "Packages/xdotool-3.20211022.1-10.el9.x86_64.rpm": {
+      "mtime_ns": 1788308264000000000,
+      "sha256": "13e4ec55c11c269dfbd4af5eafe1f0f0a8d35a0eb7837b9fad1b5f3de7b0d7e2",
+      "size": 55534
+    },
+    "Packages/xlockmore-5.88-2.el9.x86_64.rpm": {
+      "mtime_ns": 1788307276000000000,
+      "sha256": "e2ab9f586f721fe7ab81ded89df095e10c342b7785405fcb2197740a5d600e3b",
+      "size": 1393738
+    },
+    "Packages/xlockmore-gtk-5.88-2.el9.x86_64.rpm": {
+      "mtime_ns": 1788307276000000000,
+      "sha256": "8a5f6b93657b5bc8fb9fbb902e542750e0f39f48aac3b3d9cefb3cd432e4d6bf",
+      "size": 43680
+    },
+    "Packages/xlockmore-motif-5.88-2.el9.x86_64.rpm": {
+      "mtime_ns": 1788307276000000000,
+      "sha256": "453aa59d1bb3452f3483ade676928231f9aa36f97314d169af923884d6a9605b",
+      "size": 21204
+    },
+    "Packages/xrandr-1.5.3-4.el9.x86_64.rpm": {
+      "mtime_ns": 1788308659000000000,
+      "sha256": "3720c87470ceeab1d5d7ea2e894d877cd8f5ada30af08d54327fde782043e27b",
+      "size": 46070
+    },
+    "Packages/xrefresh-1.1.0-4.el9.x86_64.rpm": {
+      "mtime_ns": 1788309345000000000,
+      "sha256": "4b1a2b8e0f1ca7187ce11d3b0d4c8ac2e8790a6e30f4c1736a8230b1a10d415a",
+      "size": 24226
+    },
+    "Packages/xscreensaver-6.15-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788320407000000000,
+      "sha256": "26a14e0c11bc90ffbd2844b846c37f76aa5288bd53ed2b30b5bbb67a63ec64b3",
+      "size": 61297
+    },
+    "Packages/xscreensaver-base-6.15-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788320407000000000,
+      "sha256": "fc05ccc927d20662fb6eec63af8291a29c55142851604cb96d70c48ff60bd3fa",
+      "size": 587317
+    },
+    "Packages/xscreensaver-extras-6.15-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788320407000000000,
+      "sha256": "3f315e32920d99554888bd3f70bf1b92a053adef3986ee04d216f3ae002b7d66",
+      "size": 2631681
+    },
+    "Packages/xscreensaver-extras-gss-6.15-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788320407000000000,
+      "sha256": "32c58402162bc6a13499ab63479bb8a3b2c6f461201a870d8cf14260e1837391",
+      "size": 99712
+    },
+    "Packages/xscreensaver-gl-base-6.15-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788320407000000000,
+      "sha256": "5443dab2afda0ec2699bdd287d4bd0208fcd5682b1a7c171d63f8d752750b9c5",
+      "size": 70063
+    },
+    "Packages/xscreensaver-gl-extras-6.15-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788320407000000000,
+      "sha256": "31752a25722ae987bd306d0353575bc14c6ce98c38e9d1e428f127e9b0a72151",
+      "size": 68249060
+    },
+    "Packages/xscreensaver-gl-extras-gss-6.15-1.el9.x86_64.rpm": {
+      "mtime_ns": 1788320407000000000,
+      "sha256": "217a1be138034a36f6f3bd67468293d465589f3f6b10f39cf0550d8703bfe878",
+      "size": 114618
+    },
+    "Packages/xset-1.2.5-9.el9.x86_64.rpm": {
+      "mtime_ns": 1788309550000000000,
+      "sha256": "cabbf611acf1972eccc827e33199c922c4d12be4e91d4131369e32542b588594",
+      "size": 27815
+    }
+  },
+  "schema": 1,
+  "source": "rpm-header-buildtime"
+}
