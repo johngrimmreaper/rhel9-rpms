@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /rhel9-rpms/packages/
+Disallow: /rhel9-rpms/stable/rhel/9/x86_64/
+Disallow: /rhel9-rpms/repo/
+
+Sitemap: https://johngrimmreaper.github.io/rhel9-rpms/sitemap.xml
